@@ -1,0 +1,48 @@
+[{
+        "id": "1",
+        "url": "",
+        "name": "West Region",
+        "items": [{
+            "id": "11",
+            "url": "",
+            "name": "Southern California Market",
+            "items": [{
+                "id": "111",
+                "url": "dashboard",
+                "name": "La Jolla Cohort Group"
+            }]
+        }]
+    },
+    {
+        "id": "2",
+        "url": "",
+        "name": "East Region",
+        "items": [{
+                "id": "21",
+                "url": "",
+                "name": "New England Market",
+                "items": [{
+                        "id": "211",
+                        "url": "dashboard",
+                        "name": "Connecticut Cohort Group"
+                    },
+                    {
+                        "id": "212",
+                        "url": "dashboard",
+                        "name": "Boston Cohort Group"
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "url": "",
+                "name": "Southern Appalachian Market",
+                "items": [{
+                    "id": "221",
+                    "url": "dashboard",
+                    "name": "Atlanta Cohort Group"
+                }]
+            }
+        ]
+    }
+]

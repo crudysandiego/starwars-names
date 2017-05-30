@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/crudysandiego/starwars-names#readme",
   "dependencies": {
+    "express": "4.15.3",
+    "lodash": "4.17.4",
     "unique-random-array": "1.0.0"
   }
 }
